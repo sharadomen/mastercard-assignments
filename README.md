@@ -1,4 +1,4 @@
-** 1. Steps To Provision <br /> ** 
+> 1. Steps To Provision <br /> 
 terraform init <br />
 terraform apply -auto-approve (if you dont want any prompt) <br /> <br />
 
