@@ -1,8 +1,8 @@
-1. Steps To Provision 
-terraform init
-terraform apply -auto-approve (if you dont want any prompt)
+1. Steps To Provision <br />
+terraform init <br />
+terraform apply -auto-approve (if you dont want any prompt) <br /> <br />
 
-2. Covered all aspects of terraform
-ELB, ASG With Launch Configuration, Public ELB, Private Instance/Compute
+2. Covered all aspects of terraform <br />
+ELB, ASG With Launch Configuration, Public ELB, Private Instance/Compute <br /> <br />
 
-3. WebServer Nginx installed
+3. WebServer Nginx installed <br />
